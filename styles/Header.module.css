@@ -19,6 +19,10 @@
   }
 }
 
+.image {
+  cursor: pointer;
+}
+
 .navigation {
   margin-top: 5rem;
   display: flex;
